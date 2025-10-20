@@ -13,8 +13,7 @@ This repository contains a complete formalization of David Lewis's theory of con
 ## Main Results
 
 1. **Lewis's argument works** - formalized using justification logic (878 lines of Lean code)
-2. **Sillari's axiom B3 fails** - formal counterexample showing the crucial axiom is invalid
-3. **Lewis's theorem fails under Sillari's interpretation** - 10 formal counterexamples
+2. **Sillari's formalisation fails** - formal counterexample showing the crucial axiom is invalid
 
 ## Statistics
 
@@ -46,15 +45,5 @@ make pdf
 - Sillari, Giacomo. ‘A logical framework for convention’. Synthese 147, nr. 2 (2005): 379-400. https://doi.org/10.1007/s11229-005-1352-z.
 - Vromen, Huub. ‘Reasoning with Reasons: Lewis on Common Knowledge’. Economics and Philosophy 40, nr. 2 (2024): 397-418. https://doi.org/10.1017/S0266267123000238.
 
-## License
 
-[Choose: MIT / Apache 2.0 / CC BY 4.0]
-
-## Citation
-
-If you use this formalization, please cite:
-
-\`\`\`
-[Your citation info - will add after publication]
-\`\`\`
 EOF
