@@ -41,9 +41,10 @@ make pdf
 
 ## References
 
-- Lewis, D. K. (1969). *Convention: A Philosophical Study*
-- Sillari, G. (2008). *Quantified Logic of Awareness and Impossible Possible Worlds*
-- Cubitt, R. P., & Sugden, R. (2003). *Common Knowledge, Salience and Convention*
+- Cubitt, Robin P., en Robert Sugden. ‘Common knowledge, salience and convention: a reconstruction of David Lewis’ game theory’. Economics and Philosophy 19 (2003): 175-210. https://doi.org/10.1017/S0266267103001123.
+- Lewis, David. Convention: a philosophical study. Harvard University Press, 1969.
+- Sillari, Giacomo. ‘A logical framework for convention’. Synthese 147, nr. 2 (2005): 379-400. https://doi.org/10.1007/s11229-005-1352-z.
+- Vromen, Huub. ‘Reasoning with Reasons: Lewis on Common Knowledge’. Economics and Philosophy 40, nr. 2 (2024): 397-418. https://doi.org/10.1017/S0266267123000238.
 
 ## License
 
