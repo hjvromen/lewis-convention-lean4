@@ -1,0 +1,20 @@
+# Lean build artifacts
+build/
+.lake/
+lake-packages/
+
+# Editor files
+.vscode/
+*.swp
+*~
+
+# macOS
+.DS_Store
+
+# LaTeX artifacts
+paper/*.aux
+paper/*.log
+paper/*.pdf
+paper/*.bbl
+paper/*.blg
+paper/_minted-*/

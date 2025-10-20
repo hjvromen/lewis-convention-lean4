@@ -1,0 +1,16 @@
+
+build/
+
+build/
+.lake/
+lake-packages
+.vscode
+*.swp
+*~
+.DS_Store
+paper/*.aux
+paper/*.log
+paper/*.pdf
+paper/*.bbl
+paper/*.blg
+paper/_minted-*/
