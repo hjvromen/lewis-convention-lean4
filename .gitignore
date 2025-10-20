@@ -8,9 +8,5 @@ lake-packages
 *.swp
 *~
 .DS_Store
-paper/*.aux
-paper/*.log
-paper/*.pdf
-paper/*.bbl
-paper/*.blg
-paper/_minted-*/
+paper/*
+!paper/paper.pdf
